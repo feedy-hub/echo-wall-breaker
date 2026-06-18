@@ -4,8 +4,12 @@
 
 ### 🫧 回音壁解除 / 诚实对话校准
 
-_支持你，但不盲目附和你。_  
-_Be kind. Be useful. Don’t just echo._
+_支持你，但不盲目附和你。_
+
+<br/>
+
+[![中文](https://img.shields.io/badge/中文-当前语言-ffb4c8?style=for-the-badge)](./README.md)
+[![English](https://img.shields.io/badge/English-Switch-94a3b8?style=for-the-badge)](./README.en.md)
 
 <br/>
 
@@ -14,15 +18,11 @@ _Be kind. Be useful. Don’t just echo._
 ![tone](https://img.shields.io/badge/tone-empathic%20%2B%20honest-22c55e?style=for-the-badge)
 ![status](https://img.shields.io/badge/status-ready-0ea5e9?style=for-the-badge)
 
-<br/>
-
-[🌸 中文介绍](#-中文介绍) · [🌍 English](#-english) · [📦 Installation](#-installation)
-
 </div>
 
 ---
 
-## 🌸 中文介绍
+## 🌸 这个 Skill 是什么？
 
 **Echo Wall Breaker** 是一个用于减少 AI 对话中“回音壁效应”的轻量 Skill。  
 它让 AI 不再只是顺着用户说“你完全对”“这个想法很棒”，而是更诚实、更温和、更可靠地参与讨论。
@@ -70,48 +70,26 @@ _Be kind. Be useful. Don’t just echo._
 
 ---
 
-## 🌍 English
+## 📦 安装方式
 
-**Echo Wall Breaker** is a lightweight Skill for reducing echo-chamber behavior in AI conversations.
-
-It helps conversations stay warm without becoming blindly agreeable:
-
-> 🫶 Support the person.  
-> 🧭 Calibrate the judgment.  
-> 🪞 Don’t let AI become a mirror that only echoes.
-
-### Cute but serious features
-
-| Feature | Purpose |
-|---|---|
-| 🪞 Echo-wall reduction | Prevents the assistant from merely amplifying the user’s existing view |
-| 🍬 Anti-flattery | Avoids praise or agreement without evidence |
-| 🧠 Layer separation | Separates facts, feelings, interpretations, judgments, and actions |
-| 🔍 Blind-spot surfacing | Brings up counterexamples, risks, and alternative explanations |
-| 🫶 Gentle calibration | Keeps empathy while preserving honesty |
-
----
-
-## 📦 Installation
-
-This repository is intended to contain two install formats:
+本仓库计划提供两种安装形式：
 
 ```text
 echo-wall-breaker.skill
 echo-wall-breaker/SKILL.md
 ```
 
-Use the single-file version or the folder-based `SKILL.md` version depending on your platform.
+根据你的平台选择单文件版或 `SKILL.md` 文件夹版。
 
 ---
 
-## 🏷️ Suggested repository description
+## 🏷️ 推荐仓库简介
 
 ```text
 A cute but honest dialogue-calibration Skill that reduces AI sycophancy, echo chambers, and blind validation.
 ```
 
-## 🧷 Suggested topics
+## 🧷 推荐 topics
 
 ```text
 ai-skill, dialogue-calibration, anti-sycophancy, echo-chamber, prompt-engineering, chatgpt-skill
