@@ -2,9 +2,12 @@
 
 # 🪞 Echo Wall Breaker
 
-### 🫧 回音壁解除 / 诚实对话校准
+## Less Echo Is All You Need.
 
-_支持你，但不盲目附和你。_
+### 你需要的不是更多赞同，而是更少回音。
+
+如果 AI 永远赞同你，你可能只是在和一面镜子说话。  
+_If your AI always agrees with you, you may be talking to a mirror._
 
 <br/>
 
@@ -86,7 +89,7 @@ echo-wall-breaker/SKILL.md
 ## 🏷️ 推荐仓库简介
 
 ```text
-A cute but honest dialogue-calibration Skill that reduces AI sycophancy, echo chambers, and blind validation.
+Less Echo Is All You Need — a cute but honest dialogue-calibration Skill against blind AI agreement.
 ```
 
 ## 🧷 推荐 topics
